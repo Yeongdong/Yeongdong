@@ -4,9 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeongdong&langs_count=8)](https://github.com/Yeongdong/github-readme-stats)
 - 언어: Java
 - 프레임워크: Spring, Spring Boot
-- 데이터베이스: OracleDB, MySQL, Etc
-- 데이터베이스 접근 기술: Native Query, Spring JPA, QueryDSL
+- 데이터베이스: MySQL, OracleDB, Etc
+- 데이터베이스 접근 기술: JDBC, MyBatis, Spring Data JPA, QueryDSL
 - 버전 관리: Git, GitHub
+- 협업 툴: Jira, Notion, Slack, Google docs
 
 ## 프로젝트 경험
 - JSP/Servlet을 활용한 일기공유 서비스
